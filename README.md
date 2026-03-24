@@ -12,7 +12,7 @@ Currently we have:\
 []()\
 \
 \
-\
+## Information
 The Virtual Console .cia is made with New Super Ultimate Injector 3DS using the debug build of beta 28\
 download from here: https://www.gamebrew.org/wiki/New_Super_Ultimate_Injector_3DS
 \
