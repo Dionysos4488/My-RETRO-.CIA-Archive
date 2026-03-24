@@ -1,6 +1,7 @@
 # My-RETRO-.CIA-Archive
+\
 ## Here you can find retro game .cia files and QR-Code for use with FBI
-
+\
 Currently we have:\
 [GameBoy](https://github.com/Dionysos4488/My-RETRO-.CIA-Archive/tree/main/FILES/GB)\
 [GameBoyColor](https://github.com/Dionysos4488/My-RETRO-.CIA-Archive/tree/main/FILES/GBC)\
