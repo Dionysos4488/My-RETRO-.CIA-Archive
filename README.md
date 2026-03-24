@@ -10,6 +10,6 @@ download from here: https://www.gamebrew.org/wiki/New_Super_Ultimate_Injector_3D
 \
 \
 Some Games are from: https://itch.io/games/made-with-gb-studio those are marked with (gbstudio)
-\
+Some Games are Homebrew Games those are marked with (hbgame)
 \
 QR-Codes are made with https://createaqr.app/
