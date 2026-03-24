@@ -3,6 +3,8 @@
 
 
 Currently we have: GB,GBC,GBA,SNES
+Some Games are from https://itch.io/games/made-with-gb-studio those are marked with (gbstudio)
+
 
 
 Virtual Console .cia are made with New Super Ultimate Injector 3DS using the debug build of beta 28
