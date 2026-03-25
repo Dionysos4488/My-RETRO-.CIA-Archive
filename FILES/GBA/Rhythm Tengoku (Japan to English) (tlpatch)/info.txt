@@ -1,0 +1,3 @@
+Nr.1  PATCH FROM HERE: https://rhadvance.github.io/
+Nr.3  THE NIGHTLY BUILDS ARE NOT FOR PLAYING NORMALLY, THEY'RE JUST FOR TESTING (THE GAME HAVING EVERYTHING UNLOCKED IS NORMAL BEHAVIOR)
+Nr.3  When i made the .cia, i got an error for how it should manage the saves so i think you cant save.
