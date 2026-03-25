@@ -10,6 +10,8 @@
 []()
 ## Information
 If you know a Game that you want in the archive i can add it for you.\
+You can Post a recommandation here: https://www.reddit.com/r/retrogamesrecom/ \
+\
 \
 note:\
 I use a program that i found and barely know how it works.\
