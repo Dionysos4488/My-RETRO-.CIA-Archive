@@ -20,7 +20,7 @@ Download and learn more about it from here: https://www.gamebrew.org/wiki/New_Su
 \
 \
 Some Games are from: https://itch.io/games/made-with-gb-studio those are marked with (gbstudio)\
-Some Games are from: https://itch.io/jam/gbcompo25 those are marked with (comp25)\
+Some Games are from: https://gbdev.io/gbcompo25.html those are marked with (comp25)\
 Some Games are Homebrew Games those are marked with (hbgame)\
 \
 \
