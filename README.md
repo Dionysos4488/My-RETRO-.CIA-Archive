@@ -1,13 +1,13 @@
 # My-RETRO-.CIA-Archive
 ## Here you can find retro games .cia files and QR-Code for use with FBI
 \
-   [GameBoy](https://github.com/Dionysos4488/My-RETRO-.CIA-Archive/tree/main/FILES/GB)\
+[GameBoy](https://github.com/Dionysos4488/My-RETRO-.CIA-Archive/tree/main/FILES/GB)\
 \
- [GameBoyColor](https://github.com/Dionysos4488/My-RETRO-.CIA-Archive/tree/main/FILES/GBC)\
+[GameBoyColor](https://github.com/Dionysos4488/My-RETRO-.CIA-Archive/tree/main/FILES/GBC)\
 \
 [GameBoyAdvance](https://github.com/Dionysos4488/My-RETRO-.CIA-Archive/tree/main/FILES/GBA)\
 \
-    [SNES](https://github.com/Dionysos4488/My-RETRO-.CIA-Archive/tree/main/FILES/SNES)\
+[SNES](https://github.com/Dionysos4488/My-RETRO-.CIA-Archive/tree/main/FILES/SNES)\
 []()\
 []()\
 []()
